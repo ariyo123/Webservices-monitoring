@@ -9,8 +9,8 @@ from email.mime.application import MIMEApplication
 app = Flask(__name__)
 
 def send_test_mail(body):
-    sender_email = "aomolade@nibss-plc.com.ng"
-    receiver_email = "aomolade@nibss-plc.com.ng"
+    sender_email = "aomolade@gmail.com.ng"
+    receiver_email = "aomolade@gmail.com.ng"
 
     msg = MIMEMultipart()
     msg['Subject'] = '[Email Test]'
