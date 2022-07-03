@@ -1,10 +1,10 @@
 {
     "share_point":
         {
-            "user": "idmgtsupport@nibss-plc.com.ng",
-            "password": "ID$$12345",
-            "url": "https://nibssng.sharepoint.com",
-            "site": "https://nibssng.sharepoint.com/sites/IDENTITYMANAGEMENTOPERATIONS",
+            "user": "idmgtsupport@gmail.com.ng",
+            "password": "",
+            "url": "https://gmail.sharepoint.com",
+            "site": "https://gmail.sharepoint.com/sites/IDENTITYMANAGEMENTOPERATIONS",
             "doc_library": "Shared Documents/IDENTITY MANAGEMENT"
         }
 }
